@@ -1,5 +1,6 @@
 
 # Word Game
+![Screenshot 2025-01-31 at 12 50 57 PM](https://github.com/user-attachments/assets/8e03302e-0e67-4075-98c0-f437ce929ce4)
 
 ## Introduction
 This is a simple word-guessing game inspired by Wordle. The game allows players to guess a **seven-letter word**, providing feedback based on the correctness of their guesses.
