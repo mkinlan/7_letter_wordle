@@ -68,7 +68,7 @@ To change the number of allowed guesses:
 - **`style.css`** - Styles the game interface.
 - **`# Code Citations.md`** - MIT license and code references.
 
-## License
-This project is licensed under the **MIT License**. Some parts of the code are adapted from:
-[ShinyLive Wordle Example](https://github.com/posit-dev/shinylive/tree/0cd59dce79a5c980943bba1c8a4af208e462f67b/examples/python/wordle/app.py).
+## Licenses, Sources & Acknowlegements
+This project is licensed under the **MIT License** and based on Posit's
+[ShinyLive Wordle Example](https://github.com/posit-dev/shinylive/tree/0cd59dce79a5c980943bba1c8a4af208e462f67b/examples/python/wordle/app.py). While I added in certain features, like the 7-word list, limitations on the number of guesses, and other behavior, much of the code is based on this excellent example from the Posit Team. To see this and other fun things you can do with Shiny, check out the [Shiny for Python Playground](https://shinylive.io/py/examples/)!
 ```
