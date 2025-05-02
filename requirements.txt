@@ -2,7 +2,7 @@ anyio==4.8.0
 appdirs==1.4.4
 asgiref==3.8.1
 click==8.1.8
-h11==0.14.0
+# h11==0.14.0 --Commenting this out b/c flagged for CVE-2025-43859 Critical severity
 htmltools==0.6.0
 idna==3.10
 linkify-it-py==2.0.3
