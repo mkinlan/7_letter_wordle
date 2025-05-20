@@ -19,7 +19,7 @@ python-dateutil==2.9.0.post0
 python-multipart==0.0.20
 pytz==2025.1
 questionary==2.1.0
-setuptools==75.8.0
+#setuptools==75.8.0 --Commenting out b/c flagged for CVE-2025-47273 High severity
 shiny==1.2.1
 six==1.17.0
 sniffio==1.3.1
